@@ -1,0 +1,5 @@
+Step 1: START
+Step 2: Enter the Numbers into array
+Step 3: IF the second number is greater than first number of the array, save larger number in a variable desingnated to store the largest number and save the already stored value of largestnumber in second largest number. IF the number is not larger than the one that is already stored in the largest value variable then move to the consecutive number wihtout any operations.
+Step 4: Repeat step 3 until the control arrives to the end of the arrary. Print the second largest number that is found in the array
+Step 5: STOP
